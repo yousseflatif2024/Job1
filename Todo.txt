@@ -1,0 +1,12 @@
++ Installer Visual Studio Code // HTML , CSS, JAVASCRIPT === BOOTSTRAP (FrameWork) OK
++ installer phpmyadmin OK
++ installer php  OK
++ Installer Mysql OK
++ Composer
+
++ git 
++ github desktop
+
++ Laravel
+
+===============
